@@ -22,12 +22,11 @@ $ weather -#
 Returns the forecast for the first # periods returned by wunderground.com (typically day and night, so -2 will get today and tonight)
 
 
-Config file:  ~/weatherrc
-
-File format:
-key=nnn
-city=sss
-state=sss
+Config file:  ~/weatherrc<br>
+File format:<br>
+key=nnn<br>
+city=sss<br>
+state=sss<br>
 
 The key is an API key that you must obtain from wunderground.com.  You can't have mine.  They're free.  Get your own.
 The city and state are (obviously) the location you want the forecasts for
