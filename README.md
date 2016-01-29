@@ -1,4 +1,4 @@
-# weather
+\# weather
 Unix command line utility to get weather forcasts from wunderground.com
 
 Requires: libcurl, libjson
@@ -23,6 +23,7 @@ Returns the forecast for the first # periods returned by wunderground.com (typic
 
 
 Config file:  ~/weatherrc
+
 File format:
 key=nnn
 city=sss
